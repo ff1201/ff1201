@@ -7,5 +7,5 @@ My research focuses on high-dimensional statistics method development, with appl
  - <a href="https://arxiv.org/abs/2305.09467"> Sparse-group SLOPE: adaptive bi-level selection with FDR-control (2023) </a>.
 
 You can find my two R packages on my GitHub:
- - <a href="https://github.com/ff1201/dfr"> Repository for the dfr R package, which fits the sparse-group lasso using DFR </a>.
+ - <a href="https://github.com/ff1201/dfr"> Repository for the dfr R package, which fits the sparse-group lasso using Dual Feature Reduction (DFR) </a>.
  - <a href="https://github.com/ff1201/sgs"> Repository for the sgs R package, which fits the sparse-group SLOPE and group SLOPE models </a>.
